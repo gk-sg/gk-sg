@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gk-sg
-- 👀 I’m a digital communications advisor with interests in content design and user experience design.
+- 👀 I’m interested in content design and user experience design.
 - 🌱 I’m currently picking up web development skills in my free time through The Odin Project.
 - 📫 I also draw (fanart)! You can find me on Tumblr at gk-sg.tumblr.com.
 
